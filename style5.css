@@ -1,0 +1,100 @@
+body{
+	margin:0;
+}
+.header-area{
+	background:#3B5998;
+	padding:25px 5px 50px 10px;
+}
+
+.header-area .logo-area{
+	width:65%;
+	float:left;
+}
+
+.header-area login-area{
+	overflow:hidden;
+	width:70%;
+	font-family:tahoma;
+}
+
+.login-area label,
+.login-area input{
+	display:block;
+}
+
+.login-area input[type="checkbox"]{
+	float:left;
+	margin-left:0;
+}
+
+.login-area label{
+	color:#ffffff;
+	font-size:12px;
+	cursor:pointer;
+}
+
+.login-area input{
+	margin:5px 0 2px;
+	border:1px solid #1D2A5B;
+	padding:3px;
+}
+
+.login-area a{
+	color:#8CaCC3;
+	text-decoration:none;
+}
+
+.login-area .username-area{
+	float:left;
+	margin-right:15px;
+}
+
+.login-area .password-area{
+	overflow:hidden;
+	float:left;
+	margin-right:15px;
+}
+
+.login-area .submit-area{
+	overflow:hidden;
+}
+
+.username-area label:last-child{
+	margin-top:3px;
+	display:inline-block;
+	overflow:hidden;
+	margin-left:2px;
+	color:#8CaCC3;
+}
+
+.login-area a:hover{
+	text-decoration:underline;
+}
+
+.submit-area input{
+	background-color:#365899;
+	cursor:pointer;
+	color:#ffffff;
+	margin-top:20px;
+	font-size:12px;
+}
+
+.main-area{
+	background:linear-gradient(#ffffff,#D3D8E8);
+}
+
+.photo-area{
+	width:50%;
+	float:left;
+}
+
+.signup-area{
+	width:50%;
+	overflow:hidden;
+}
+
+
+
+
+
+
